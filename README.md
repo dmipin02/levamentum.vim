@@ -1,2 +1,3 @@
 # kizu.vim
-My colorscheme based on Nord and iceburg.vim
+
+<img src="https://img.kizu.cf/u/nFW95fl.png">
