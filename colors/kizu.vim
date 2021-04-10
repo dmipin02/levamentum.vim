@@ -38,7 +38,7 @@
 
   highlight clear
   syntax reset
-  let g:colors_name = "kizu.vim"
+  let g:colors_name = "kizu"
 
   """"""""""
   " Normal "
