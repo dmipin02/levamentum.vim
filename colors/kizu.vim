@@ -35,13 +35,10 @@
   let s:ctermaccent7 = 146
   
   endif
-  
-
-  
 
   highlight clear
   syntax reset
-  let g:colors_name = "iceburg"
+  let g:colors_name = "kizu.vim"
 
   """"""""""
   " Normal "
