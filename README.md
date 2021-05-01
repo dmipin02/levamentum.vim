@@ -20,5 +20,5 @@
 
 ### ❖ Special Thanks
 
-   * [Nord](https://www.nordtheme.com/)
-   * [iceburg.vim](https://cocopon.github.io/iceberg.vim/)
+   * [Nord](https://www.nordtheme.com/) and [iceburg.vim](https://cocopon.github.io/iceberg.vim/) for the colors.
+   * [Liz](https://github.com/LichKing112) for the name.
