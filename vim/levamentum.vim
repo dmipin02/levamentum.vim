@@ -37,7 +37,7 @@ endif
 
 highlight clear
 syntax reset
-let g:colors_name = "kizu"
+let g:colors_name = "levamentum"
 
 """"""""""
 " Normal "
