@@ -18,6 +18,10 @@
 
    * [Alacritty](terminal/alacritty/alacritty.yml)
 
+### ❖ Other
+
+   * [Xresources](other/Xresources)
+
 ### ❖ Special Thanks
 
    * [Nord](https://www.nordtheme.com/) and [iceburg.vim](https://cocopon.github.io/iceberg.vim/) for the colors.
