@@ -10,15 +10,15 @@
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
-### Development
+### ❖ Development
 
    * [Vim/Neovim](vim/levamentum.vim)
 
-### Terminals
+### ❖ Terminals
 
    * [Alacritty](terminal/alacritty/alacritty.yml)
 
-### Special Thanks
+### ❖ Special Thanks
 
    * [Nord](https://www.nordtheme.com/)
    * [iceburg.vim](https://cocopon.github.io/iceberg.vim/)
