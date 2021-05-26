@@ -17,6 +17,7 @@
 ### ❖ Terminals
 
    * [Alacritty](terminal/alacritty/alacritty.yml)
+   * [Termite](terminal/termite/config)
 
 ### ❖ Other
 
