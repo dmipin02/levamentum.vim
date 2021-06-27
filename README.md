@@ -6,7 +6,7 @@
 
 <p/>
 
-![img](https://img.kizu.cf/u/a37AxQx.png)
+![img](./assets/banner.png)
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
